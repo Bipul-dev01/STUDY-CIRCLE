@@ -1660,7 +1660,7 @@ section .title::before{
   } 
   .navbar ul .hidden{
     display: block;
-    font-size: 50px;
+    font-size: 38px;
     /* line-height: 100px; */
     /* font-weight: 600; */
     /* color: crimson; */
@@ -1671,7 +1671,7 @@ section .title::before{
 }
 .navbar ul .small{
     display: block;
-    font-size: 30px;
+    font-size: 27px;
     /* line-height: 100px; */
     /* font-weight: 600; */
     /* color: crimson; */
@@ -1737,7 +1737,7 @@ section .title::before{
     }
     .home{
         /* background: url('Images/green nature-2.jpg') no-repeat center; */
-        background-color: #F0592A;
+        /* background-color: #F0592A; */
         display: flex;
         height: 100vh;
         color: #fff;
@@ -1778,7 +1778,7 @@ section .title::before{
       margin-top: -20px;
     }
    .home .home-content .text-2{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 600;
     letter-spacing: 1px;
     line-height: 50px;
@@ -1787,7 +1787,7 @@ section .title::before{
      /* -webkit-text-stroke: 1px #eb4d35;  */
    }
    .home .home-content .text-2sm{
-    font-size: 30px;
+    font-size: 28px;
    }
    .home .home-content .text-3{
     font-size: 20px;
