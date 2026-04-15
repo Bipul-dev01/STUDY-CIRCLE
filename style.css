@@ -266,6 +266,9 @@ section .home{
     margin-bottom: 5px;
 }
 
+.home .home-content h1{
+  font-family:'Great Vibes', cursive; font-size:45px; letter-spacing: 3px; font-weight: 400; padding-bottom: 35px;
+}
 
 .home .home-content .text-2A{
     font-family: 'Montserrat', sans-serif;
@@ -1780,9 +1783,7 @@ section .title::before{
    .home .home-content .text-2{
     font-size: 60px;
    }
-   .home .home-content .text-2sm{
-    font-size: 40px;
-   }
+   
    .home .home-content .text-3{
     font-size: 25px;
    }
@@ -1816,12 +1817,14 @@ section .title::before{
     letter-spacing: 1px;
     line-height: 50px;
     margin-top: 40px;
-    margin-bottom: 30px;
+    margin-bottom: 14px;
      /* -webkit-text-stroke: 1px #eb4d35;  */
    }
-   .home .home-content .text-2sm{
-    font-size: 28px;
-   }
+   .home .home-content h1{
+    font-size:25px; 
+    letter-spacing: 3px;  
+    padding-bottom: 35px;
+  }
    .home .home-content .text-3{
     font-size: 20px;
     margin-bottom: 60px;
