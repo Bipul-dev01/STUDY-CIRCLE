@@ -1848,14 +1848,14 @@ section .title::before{
       align-items: center;
     }
     .home .home-content .text-1{
-      margin-top: -20px;
+      margin-top: 100px;
     }
    .home .home-content .text-2{
     font-size: 40px;
     font-weight: 600;
     letter-spacing: 1px;
     line-height: 50px;
-    margin-top: 40px;
+    margin-top: 60px;
     margin-bottom: 14px;
      /* -webkit-text-stroke: 1px #eb4d35;  */
    }
