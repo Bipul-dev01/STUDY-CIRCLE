@@ -1675,14 +1675,15 @@ section .title::before{
         width: 100%;
         left: -100%;
         top: 0;
-        background: #F0592A;
+        background: #FEBC5A;
+        /* background: #F0592A; */
         /* background: url('Images/about-Sir-Logo.jpg') no-repeat center; */
         background-size: cover;
         object-fit: cover;
         height: 100%;
         text-align: center;
         padding-top: 130px;
-        transition: all 0.3s ease;    
+        transition: all 0.3s ease-in;    
     }
     .navbar .menu::after{
     content: "";
