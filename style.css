@@ -336,7 +336,7 @@ section .home{
   animation-iteration-count: infinite;
 }
 .moving-text h1 {
-  font-size: 5vw;
+  font-size: 3vw;
   /* background-color: lightblue; */
   color: rgb(53, 127, 53);
   padding-top: 7px;
