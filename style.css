@@ -746,11 +746,17 @@ section .title::before{
   .students-container {
     grid-template-columns: repeat(2, 1fr);
   }
+  .student-card img {
+    height: 250px;
+  }
 }
 
 @media (max-width: 480px) {
   .students-container {
     grid-template-columns: 1fr;
+  }
+  .student-card img {
+    height: 220px;
   }
 }
 
