@@ -747,7 +747,7 @@ section .title::before{
     grid-template-columns: repeat(2, 1fr);
   }
   .student-card img {
-    height: 250px;
+    height: 280px;
   }
 }
 
@@ -756,7 +756,7 @@ section .title::before{
     grid-template-columns: 1fr;
   }
   .student-card img {
-    height: 220px;
+    height: 250px;
   }
 }
 
